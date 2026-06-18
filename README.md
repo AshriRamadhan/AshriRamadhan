@@ -1,5 +1,7 @@
+
+<img width="1584" height="396" alt="oke" src="https://github.com/user-attachments/assets/aaf35d2c-de59-4eae-95b4-0d3292064ed0" />
+
 # Hi there, I'm Ashri Ramadhan 👋
-<img width="325" height="406" alt="ukuran 2" src="https://github.com/user-attachments/assets/9c586e2c-d393-4692-b435-03bc48badc40" />
 
 <p align="left">
   <a href="https://google.com" target="_blank">
@@ -12,6 +14,9 @@
 
 ### 🎓 About Me
 I am a **Master's Student** in **Islamic Community Development** at **Universitas Islam Negeri Sunan Kalijaga Yogyakarta**. My work and research bridge the gap between digital communication, community empowerment, and gender welfare within Islamic frameworks.
+
+<img width="200" alt="Profil Ashri Ramadhan" src="https://github.com/user-attachments/assets/45be8580-c88a-4c6e-a701-550e73661704" /> <p align="center"> ... </p>
+<p align="center">
 
 - 🏫 **Institution:** UIN Sunan Kalijaga Yogyakarta
 - 📚 **Research Interests:** Islamic Community Development | Gender Equality | Digital Da'wah | Public Services
