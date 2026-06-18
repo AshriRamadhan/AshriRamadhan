@@ -1,9 +1,10 @@
 
+<p align="center">
 <img width="1584" height="396" alt="oke" src="https://github.com/user-attachments/assets/aaf35d2c-de59-4eae-95b4-0d3292064ed0" />
 
 # Hi there, I'm Ashri Ramadhan 👋
 
-<p align="left">
+<p align="center">
   <a href="https://google.com" target="_blank">
     <img src="https://shields.io" alt="Google Scholar" />
   </a>
@@ -11,55 +12,47 @@
     <img src="https://shields.io" alt="ORCID" />
   </a>
 </p>
-
-### 🎓 About Me
+<p align="center">
+🎓 About Me
 I am a **Master's Student** in **Islamic Community Development** at **Universitas Islam Negeri Sunan Kalijaga Yogyakarta**. My work and research bridge the gap between digital communication, community empowerment, and gender welfare within Islamic frameworks.
-
+<p align="center">
 <img width="200" alt="Profil Ashri Ramadhan" src="https://github.com/user-attachments/assets/45be8580-c88a-4c6e-a701-550e73661704" /> <p align="center"> ... </p>
 <p align="center">
+🏫 Institution: UIN Sunan Kalijaga Yogyakarta
 
-- 🏫 **Institution:** UIN Sunan Kalijaga Yogyakarta
-- 📚 **Research Interests:** Islamic Community Development | Gender Equality | Digital Da'wah | Public Services
-- 📍 **Location:** Yogyakarta, Indonesia
+<p align="center">  
+📚 Research Interests: Islamic Community Development | Gender Equality | Digital Da'wah | Public Services 🔬 Core Publications & Datasets
+Here are some of my featured works, available across academic platforms
+<p align="center">
+🌾 Community & Development: Peran Serta Masyarakat dalam Meningkatkan Kesejahteraan Desa di Kabupaten Tanah Datar
+⚖️ Gender Studies: Sustainable Development Strategies for Enhancing Gender Welfare in Kelurahan Kalitirti, Sleman Regency
+📣 Digital Communication: Komunikasi Dakwah Berbasis Digital dalam Mempertahankan Tradisi Randai di Kota Bukittinggi
 
----
 
-### 🔬 Core Publications & Datasets
-Here are some of my featured works, available across academic platforms:
+<p align="center">
+📊 GitHub Stats & Metrics
 
-* 🌾 **Community & Development:** *Peran Serta Masyarakat dalam Meningkatkan Kesejahteraan Desa di Kabupaten Tanah Datar* ([Zenodo DOI](https://doi.org))
-* ⚖️ **Gender Studies:** *Sustainable Development Strategies for Enhancing Gender Welfare in Kelurahan Kalitirti, Sleman Regency*
-* 📣 **Digital Communication:** *Komunikasi Dakwah Berbasis Digital dalam Mempertahankan Tradisi Randai di Kota Bukittinggi* ([Zenodo DOI](https://doi.org))
-
----
-
-### 📊 GitHub Stats & Metrics
-
-<p align="left">
+<p align="center">
   <img src="https://vercel.app" alt="Ashri's GitHub Stats" height="180px" />
   <img src="https://herokuapp.com" alt="Ashri's Streak Stats" height="180px" />
 </p>
 
----
-
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" /></a>
+<p align="center">
+🌐 Connect with Me
+<p align="center">  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" /></a>
   <a href="https://instagram.com" target="_blank"><img src="https://shields.io" /></a>
 </p>
 
-### 🔬 Core Publications & Datasets
-Here are my academic works, datasets, and publications available across global networks:
+<p align="center">
+Core Publications & Datasets Here are my academic works, datasets, and publications available across global networks My Academic Repository: Access all my uploaded PDFs and research data directly in my GitHub
 
-* 📂 **My Academic Repository:** Access all my uploaded PDFs and research data directly in my GitHub [Academic Repository](https://github.com).
+<p align="center">
+🏛️ Creative Tourism | 🏙️ Urban Studies | ⚖️ Gender & Welfare | 🛡️ Social Welfare | 🤝 Community Engagement
 
-#### 📄 Uploaded PDFs & Selected Articles:
-* 🏛️ **Creative Tourism:** *Creative Tourism as the Key to Community Empowerment Revitalizing Local Cultural Narratives at Prambanan Temple*
-* 🏙️ **Urban Studies:** *Urbanization and the Crisis of Social Solidarity A Multidisciplinary Analysis of the Tanah Abang and Kampung Melayu Ar...*
-* 🌋 **Disaster Policy:** *National Disaster Policy Criticism of the State's Response to the Disaster in West Sumatra*
-* 🌾 **Zenodo:** *Peran Serta Masyarakat dalam Meningkatkan Kesejahteraan Desa di Kabupaten Tanah Datar* ([DOI Tautan](https://doi.org))
-* 📣 **Zenodo:** *Komunikasi Dakwah Berbasis Digital dalam Mempertahankan Tradisi Randai di Kota Bukittinggi* ([DOI Tautan](https://doi.org))
-* ⚖️ **Gender & Welfare:** *Sustainable Development Strategies for Enhancing Gender Welfare in Kelurahan Kalitirti, Sleman Regency* ([Baca di Scholar](https://google.com))
-* 🏛️ **Cultural Traditions:** *An Acculturation Review of the Population Phenomenon in the Formation of Cultural and Religious Traditions in Yogyakarta* ([Baca di Scholar](https://google.com))
-* 🛡️ **Social Welfare:** *Implementasi Kebijakan Perlindungan Sosial terhadap Kelompok Rentan Pasca Pandemi* ([Baca di Scholar](https://google.com))
-* 🤝 **Community Engagement:** *Metode Pemberdayaan Masyarakat Berbasis Kearifan Lokal di Era Transformasi Digital* ([Baca di Scholar](https://google.com))
+<p align="center">
+<img width="200" alt="1756323903309-01" src="https://github.com/user-attachments/assets/1680bdda-d676-4fde-b77d-3af15b678218" /> 
+<p align="center">
+
+
+
+----------------------------
